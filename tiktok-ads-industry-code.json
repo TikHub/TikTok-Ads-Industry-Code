@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "22000000000",
+    "name": "Apparel & Accessories",
+    "sub_industry": [
+      {
+        "id": "22102000000",
+        "name": "Bags"
+      },
+      {
+        "id": "22101000000",
+        "name": "Clothing Accessories"
+      },
+      {
+        "id": "22107000000",
+        "name": "High-end Jewelry"
+      },
+      {
+        "id": "22108000000",
+        "name": "Men's Clothing"
+      },
+      {
+        "id": "22109000000",
+        "name": "Men's Shoes"
+      },
+      {
+        "id": "22106000000",
+        "name": "Ordinary Jewelry"
+      },
+      {
+        "id": "22999000000",
+        "name": "Other Apparel & Accessories"
+      },
+      {
+        "id": "22112000000",
+        "name": "Traditional & Ceremonial Clothing"
+      },
+      {
+        "id": "22105000000",
+        "name": "Watches"
+      },
+      {
+        "id": "22113000000",
+        "name": "Wearable Tech Devices"
+      },
+      {
+        "id": "22110000000",
+        "name": "Women's Clothing"
+      },
+      {
+        "id": "22111000000",
+        "name": "Women's Shoes"
+      }
+    ]
+  },
+  {
+    "id": "16000000000",
+    "name": "Appliances",
+    "sub_industry": [
+      {
+        "id": "16105000000",
+        "name": "Digital Devices"
+      },
+      {
+        "id": "16104000000",
+        "name": "Home Appliances"
+      },
+      {
+        "id": "16101000000",
+        "name": "Kitchen & Bathroom Appliances"
+      },
+      {
+        "id": "16102000000",
+        "name": "Large Appliances"
+      },
+      {
+        "id": "16999000000",
+        "name": "Other Appliances"
+      },
+      {
+        "id": "16100000000",
+        "name": "Personal Care Appliances"
+      }
+    ]
+  },
+  {
+    "id": "20000000000",
+    "name": "Apps",
+    "sub_industry": [
+      {
+        "id": "20101000000",
+        "name": "Audio & Video Players"
+      },
+      {
+        "id": "20110000000",
+        "name": "Business & Productivity"
+      },
+      {
+        "id": "20104000000",
+        "name": "Education"
+      },
+      {
+        "id": "20106000000",
+        "name": "Financial Services"
+      },
+      {
+        "id": "20109000000",
+        "name": "Health & Fitness"
+      },
+      {
+        "id": "20107000000",
+        "name": "Life & Leisure"
+      },
+      {
+        "id": "20102000000",
+        "name": "News & Reading"
+      },
+      {
+        "id": "20105000000",
+        "name": "Online Shopping"
+      },
+      {
+        "id": "20999000000",
+        "name": "Other Apps"
+      },
+      {
+        "id": "20111000000",
+        "name": "Parenting"
+      },
+      {
+        "id": "20103000000",
+        "name": "Photography"
+      },
+      {
+        "id": "20100000000",
+        "name": "Social"
+      },
+      {
+        "id": "20108000000",
+        "name": "Travel"
+      },
+      {
+        "id": "20112000000",
+        "name": "Utilities"
+      }
+    ]
+  },
+  {
+    "id": "12000000000",
+    "name": "Baby, Kids & Maternity",
+    "sub_industry": [
+      {
+        "id": "12104000000",
+        "name": "Baby Bedding"
+      },
+      {
+        "id": "12108000000",
+        "name": "Baby Feeding Supplies"
+      },
+      {
+        "id": "12100000000",
+        "name": "Baby Food"
+      },
+      {
+        "id": "12102000000",
+        "name": "Baby Formula"
+      },
+      {
+        "id": "12110000000",
+        "name": "Baby Hygiene Products"
+      },
+      {
+        "id": "12105000000",
+        "name": "Baby Shoes"
+      },
+      {
+        "id": "12107000000",
+        "name": "Child Car Seats"
+      },
+      {
+        "id": "12109000000",
+        "name": "Children's Apparel"
+      },
+      {
+        "id": "12103000000",
+        "name": "Diapers & Baby Wipes"
+      },
+      {
+        "id": "12999000000",
+        "name": "Other Baby, Kids & Maternity"
+      },
+      {
+        "id": "12101000000",
+        "name": "Strollers & Cribs"
+      },
+      {
+        "id": "12106000000",
+        "name": "Toys for Kids"
+      }
+    ]
+  },
+  {
+    "id": "14000000000",
+    "name": "Beauty & Personal Care",
+    "sub_industry": [
+      {
+        "id": "14105000000",
+        "name": "Aesthetic Medicine"
+      },
+      {
+        "id": "14104000000",
+        "name": "Cosmetics"
+      },
+      {
+        "id": "14107000000",
+        "name": "Feminine Care"
+      },
+      {
+        "id": "14106000000",
+        "name": "Fragrances & Perfumes"
+      },
+      {
+        "id": "14101000000",
+        "name": "Haircare"
+      },
+      {
+        "id": "14100000000",
+        "name": "Oral Care"
+      },
+      {
+        "id": "14999000000",
+        "name": "Other Beauty & Personal Care"
+      },
+      {
+        "id": "14103000000",
+        "name": "Skincare"
+      },
+      {
+        "id": "14102000000",
+        "name": "Wig & Hair Styling"
+      }
+    ]
+  },
+  {
+    "id": "24000000000",
+    "name": "Business Services",
+    "sub_industry": [
+      {
+        "id": "24108000000",
+        "name": "Agriculture, Forestry, Animal Husbandry & Fishing"
+      },
+      {
+        "id": "24118000000",
+        "name": "Auction Services"
+      },
+      {
+        "id": "24105000000",
+        "name": "Chemical Materials"
+      },
+      {
+        "id": "24103000000",
+        "name": "Constructional Engineering"
+      },
+      {
+        "id": "24104000000",
+        "name": "Electronics & Electrical"
+      },
+      {
+        "id": "24109000000",
+        "name": "Energy Conservation & Environmental Protection"
+      },
+      {
+        "id": "24114000000",
+        "name": "Exhibition Services"
+      },
+      {
+        "id": "24107000000",
+        "name": "Franchising"
+      },
+      {
+        "id": "24120000000",
+        "name": "Individual Entrepreneurship"
+      },
+      {
+        "id": "24119000000",
+        "name": "Investment Planning & Management"
+      },
+      {
+        "id": "24116000000",
+        "name": "IT Services"
+      },
+      {
+        "id": "24117000000",
+        "name": "Legal Services"
+      },
+      {
+        "id": "24111000000",
+        "name": "Logistics"
+      },
+      {
+        "id": "24106000000",
+        "name": "Machinery & Equipment"
+      },
+      {
+        "id": "24112000000",
+        "name": "Marketing & Advertising"
+      },
+      {
+        "id": "24101000000",
+        "name": "Office Equipment & Supplies"
+      },
+      {
+        "id": "24999000000",
+        "name": "Other Business Services"
+      },
+      {
+        "id": "24113000000",
+        "name": "Professional Consultation"
+      },
+      {
+        "id": "24100000000",
+        "name": "Real Estate & Home Rentals"
+      },
+      {
+        "id": "24102000000",
+        "name": "Recruitment & Job Searching"
+      },
+      {
+        "id": "24110000000",
+        "name": "Safety & Security"
+      },
+      {
+        "id": "24115000000",
+        "name": "Service Outsourcing"
+      }
+    ]
+  },
+  {
+    "id": "30000000000",
+    "name": "E-Commerce (Non-app)",
+    "sub_industry": [
+      {
+        "id": "30100000000",
+        "name": "Big Box Retailers"
+      },
+      {
+        "id": "30102000000",
+        "name": "Large E-commerce Platforms"
+      },
+      {
+        "id": "30101000000",
+        "name": "Small & Medium-sized E-commerce Platforms"
+      }
+    ]
+  },
+  {
+    "id": "10000000000",
+    "name": "Education",
+    "sub_industry": [
+      {
+        "id": "10100000000",
+        "name": "Early Childhood & Preschool Education"
+      },
+      {
+        "id": "10102000000",
+        "name": "Higher Education"
+      },
+      {
+        "id": "10105000000",
+        "name": "Language Training"
+      },
+      {
+        "id": "10106000000",
+        "name": "Non-academic Training (Hobbies)"
+      },
+      {
+        "id": "10999000000",
+        "name": "Other Education"
+      },
+      {
+        "id": "10103000000",
+        "name": "Overseas Education"
+      },
+      {
+        "id": "10101000000",
+        "name": "Primary & Secondary Education & K-12"
+      },
+      {
+        "id": "10104000000",
+        "name": "Vocational Training"
+      }
+    ]
+  },
+  {
+    "id": "13000000000",
+    "name": "Financial Services",
+    "sub_industry": [
+      {
+        "id": "13100000000",
+        "name": "Commercial Banks"
+      },
+      {
+        "id": "13108000000",
+        "name": "Credit Bureaus"
+      },
+      {
+        "id": "13117000000",
+        "name": "Credit Cards"
+      },
+      {
+        "id": "13115000000",
+        "name": "Crowd Funding"
+      },
+      {
+        "id": "13116000000",
+        "name": "Cryptocurrencies"
+      },
+      {
+        "id": "13112000000",
+        "name": "Foreign Exchange Transactions"
+      },
+      {
+        "id": "13107000000",
+        "name": "Funds"
+      },
+      {
+        "id": "13104000000",
+        "name": "Guarantees"
+      },
+      {
+        "id": "13102000000",
+        "name": "Insurance"
+      },
+      {
+        "id": "13110000000",
+        "name": "Investment Advisory"
+      },
+      {
+        "id": "13111000000",
+        "name": "Loan Services"
+      },
+      {
+        "id": "13109000000",
+        "name": "Microfinance Companies"
+      },
+      {
+        "id": "13999000000",
+        "name": "Other Financial Services"
+      },
+      {
+        "id": "13105000000",
+        "name": "Pawn Shops"
+      },
+      {
+        "id": "13113000000",
+        "name": "Precious Metals"
+      },
+      {
+        "id": "13101000000",
+        "name": "Securities"
+      },
+      {
+        "id": "13114000000",
+        "name": "Third-Party Payments"
+      },
+      {
+        "id": "1310300000",
+        "name": "Trusts"
+      }
+    ]
+  },
+  {
+    "id": "27000000000",
+    "name": "Food & Beverage",
+    "sub_industry": [
+      {
+        "id": "27103000000",
+        "name": "Alcoholic Beverages"
+      },
+      {
+        "id": "27104000000",
+        "name": "Cooking & Recipes"
+      },
+      {
+        "id": "27100000000",
+        "name": "Cuisine"
+      },
+      {
+        "id": "27101000000",
+        "name": "Food & Fresh Produce"
+      },
+      {
+        "id": "27102000000",
+        "name": "Non-alcoholic Beverages"
+      },
+      {
+        "id": "27999000000",
+        "name": "Other Food & Beverage"
+      }
+    ]
+  },
+  {
+    "id": "25000000000",
+    "name": "Games",
+    "sub_industry": [
+      {
+        "id": "25301000000",
+        "name": "Action"
+      },
+      {
+        "id": "25302000000",
+        "name": "Casino"
+      },
+      {
+        "id": "25300000000",
+        "name": "Hyper-Casual"
+      },
+      {
+        "id": "25313000000",
+        "name": "Kids"
+      },
+      {
+        "id": "25303000000",
+        "name": "Match"
+      },
+      {
+        "id": "25999000000",
+        "name": "Other"
+      },
+      {
+        "id": "25311000000",
+        "name": "Party"
+      },
+      {
+        "id": "25304000000",
+        "name": "Puzzle"
+      },
+      {
+        "id": "25305000000",
+        "name": "Racing"
+      },
+      {
+        "id": "25306000000",
+        "name": "RPG"
+      },
+      {
+        "id": "25307000000",
+        "name": "Shooting"
+      },
+      {
+        "id": "25308000000",
+        "name": "Simulation"
+      },
+      {
+        "id": "25309000000",
+        "name": "Sports"
+      },
+      {
+        "id": "25310000000",
+        "name": "Strategy"
+      },
+      {
+        "id": "25312000000",
+        "name": "Tabletop"
+      }
+    ]
+  },
+  {
+    "id": "29000000000",
+    "name": "Health",
+    "sub_industry": [
+      {
+        "id": "29102000000",
+        "name": "Dietary Supplements"
+      },
+      {
+        "id": "29101000000",
+        "name": "Medical Information"
+      },
+      {
+        "id": "29100000000",
+        "name": "Medical Services"
+      },
+      {
+        "id": "29103000000",
+        "name": "Medicine"
+      },
+      {
+        "id": "29999000000",
+        "name": "Other Health"
+      }
+    ]
+  },
+  {
+    "id": "21000000000",
+    "name": "Home Improvement",
+    "sub_industry": [
+      {
+        "id": "21102000000",
+        "name": "Construction Materials & Lighting"
+      },
+      {
+        "id": "21101000000",
+        "name": "Furniture"
+      },
+      {
+        "id": "21103000000",
+        "name": "Hardware & Electrical"
+      },
+      {
+        "id": "21104000000",
+        "name": "Home Decor"
+      },
+      {
+        "id": "21100000000",
+        "name": "Interior Design & Decorating Services"
+      },
+      {
+        "id": "21999000000",
+        "name": "Other Home Improvement"
+      },
+      {
+        "id": "21105000000",
+        "name": "Power Strips & Socket"
+      }
+    ]
+  },
+  {
+    "id": "18000000000",
+    "name": "Household Products",
+    "sub_industry": [
+      {
+        "id": "18106000000",
+        "name": "Cleaning Appliances"
+      },
+      {
+        "id": "18110000000",
+        "name": "Cleaning Supplies"
+      },
+      {
+        "id": "18104000000",
+        "name": "Coffee Accessories"
+      },
+      {
+        "id": "18101000000",
+        "name": "Daily Essentials"
+      },
+      {
+        "id": "18102000000",
+        "name": "Glasses & Drinkware"
+      },
+      {
+        "id": "18105000000",
+        "name": "Kitchen Accessories"
+      },
+      {
+        "id": "18108000000",
+        "name": "Laundry"
+      },
+      {
+        "id": "18109000000",
+        "name": "Leather Care"
+      },
+      {
+        "id": "18999000000",
+        "name": "Other Household Products"
+      },
+      {
+        "id": "18112000000",
+        "name": "Pest Control"
+      },
+      {
+        "id": "18100000000",
+        "name": "Storage Products"
+      },
+      {
+        "id": "18103000000",
+        "name": "Tea Sets"
+      },
+      {
+        "id": "18107000000",
+        "name": "Tissues & Wet Wipes"
+      },
+      {
+        "id": "18111000000",
+        "name": "Toys"
+      }
+    ]
+  },
+  {
+    "id": "26000000000",
+    "name": "Life Services",
+    "sub_industry": [
+      {
+        "id": "26114000000",
+        "name": "Beauty & Personal Care"
+      },
+      {
+        "id": "26112000000",
+        "name": "Consumer Services"
+      },
+      {
+        "id": "26102000000",
+        "name": "Dating & Matchmaking Services"
+      },
+      {
+        "id": "26113000000",
+        "name": "Exercise & Fitness"
+      },
+      {
+        "id": "26108000000",
+        "name": "Gardening"
+      },
+      {
+        "id": "26104000000",
+        "name": "Gifts & Flowers"
+      },
+      {
+        "id": "26105000000",
+        "name": "Housekeeping"
+      },
+      {
+        "id": "26111000000",
+        "name": "Internet Services"
+      },
+      {
+        "id": "26999000000",
+        "name": "Other Life Services"
+      },
+      {
+        "id": "26101000000",
+        "name": "Photography"
+      },
+      {
+        "id": "26106000000",
+        "name": "Shopping Services"
+      },
+      {
+        "id": "26107000000",
+        "name": "Used Good Sales Platforms"
+      },
+      {
+        "id": "26109000000",
+        "name": "Utilities Payments"
+      },
+      {
+        "id": "26103000000",
+        "name": "Wedding Celebrations"
+      },
+      {
+        "id": "26100000000",
+        "name": "Wedding Photography"
+      }
+    ]
+  },
+  {
+    "id": "23000000000",
+    "name": "News & Entertainment",
+    "sub_industry": [
+      {
+        "id": "23113000000",
+        "name": "Anime"
+      },
+      {
+        "id": "23114000000",
+        "name": "Astrology"
+      },
+      {
+        "id": "23122000000",
+        "name": "Beauty & Personal Care"
+      },
+      {
+        "id": "23102000000",
+        "name": "Business & Economy"
+      },
+      {
+        "id": "23126000000",
+        "name": "Car Information"
+      },
+      {
+        "id": "23108000000",
+        "name": "Celebrities & Gossip"
+      },
+      {
+        "id": "23105000000",
+        "name": "Charity & Public Welfare"
+      },
+      {
+        "id": "23111000000",
+        "name": "Collectables & Antiques"
+      },
+      {
+        "id": "23116000000",
+        "name": "Culture & Art"
+      },
+      {
+        "id": "23104000000",
+        "name": "Culture & History"
+      },
+      {
+        "id": "23128000000",
+        "name": "E-commerce Information"
+      },
+      {
+        "id": "23107000000",
+        "name": "Environmental Protection"
+      },
+      {
+        "id": "23124000000",
+        "name": "Food & Cooking"
+      },
+      {
+        "id": "23125000000",
+        "name": "Games & Utility Software"
+      },
+      {
+        "id": "23127000000",
+        "name": "General Information"
+      },
+      {
+        "id": "23115000000",
+        "name": "Humor"
+      },
+      {
+        "id": "23106000000",
+        "name": "Law"
+      },
+      {
+        "id": "23109000000",
+        "name": "Lifestyle News"
+      },
+      {
+        "id": "23110000000",
+        "name": "Live Events"
+      },
+      {
+        "id": "23100000000",
+        "name": "Military"
+      },
+      {
+        "id": "23119000000",
+        "name": "Movies"
+      },
+      {
+        "id": "23999000000",
+        "name": "Other News & Entertainment"
+      },
+      {
+        "id": "23129000000",
+        "name": "Pet Information"
+      },
+      {
+        "id": "23101000000",
+        "name": "Politics"
+      },
+      {
+        "id": "23118000000",
+        "name": "Reading"
+      },
+      {
+        "id": "23130000000",
+        "name": "Real Estate Information"
+      },
+      {
+        "id": "23131000000",
+        "name": "Relationship Information"
+      },
+      {
+        "id": "23103000000",
+        "name": "Science & Technology"
+      },
+      {
+        "id": "23134000000",
+        "name": "Social Media Account Promotion"
+      },
+      {
+        "id": "23123000000",
+        "name": "Sports & Fitness"
+      },
+      {
+        "id": "23132000000",
+        "name": "Streaming Site"
+      },
+      {
+        "id": "23133000000",
+        "name": "Tourist Information"
+      },
+      {
+        "id": "23112000000",
+        "name": "TV Drama & Series"
+      },
+      {
+        "id": "23117000000",
+        "name": "TV Variety Shows"
+      }
+    ]
+  },
+  {
+    "id": "19000000000",
+    "name": "Pets",
+    "sub_industry": [
+      {
+        "id": "19999000000",
+        "name": "Other Pets"
+      },
+      {
+        "id": "19103000000",
+        "name": "Pet Grooming"
+      },
+      {
+        "id": "19101000000",
+        "name": "Pet Healthcare"
+      },
+      {
+        "id": "19102000000",
+        "name": "Pet Household Products"
+      },
+      {
+        "id": "19105000000",
+        "name": "Pet Toys"
+      },
+      {
+        "id": "19106000000",
+        "name": "Pet Travel Accessories"
+      },
+      {
+        "id": "19104000000",
+        "name": "Pet Treats"
+      },
+      {
+        "id": "19100000000",
+        "name": "Petfood"
+      }
+    ]
+  },
+  {
+    "id": "28000000000",
+    "name": "Sports & Outdoor",
+    "sub_industry": [
+      {
+        "id": "28100000000",
+        "name": "Outdoor Equipment"
+      },
+      {
+        "id": "28101000000",
+        "name": "Sports & Equipment"
+      }
+    ]
+  },
+  {
+    "id": "15000000000",
+    "name": "Tech & Electronics",
+    "sub_industry": [
+      {
+        "id": "15100000000",
+        "name": "Cell Phones"
+      },
+      {
+        "id": "15105000000",
+        "name": "Computer Accessories"
+      },
+      {
+        "id": "15103000000",
+        "name": "Computer Repair"
+      },
+      {
+        "id": "15101000000",
+        "name": "Computers"
+      },
+      {
+        "id": "15102000000",
+        "name": "Computers Components"
+      },
+      {
+        "id": "15104000000",
+        "name": "Gaming Devices"
+      },
+      {
+        "id": "15106000000",
+        "name": "Network Products"
+      },
+      {
+        "id": "15107000000",
+        "name": "Office Equipment"
+      },
+      {
+        "id": "15999000000",
+        "name": "Other Tech & Electronics"
+      }
+    ]
+  },
+  {
+    "id": "17000000000",
+    "name": "Travel",
+    "sub_industry": [
+      {
+        "id": "17103000000",
+        "name": "Hotels & Accommodation"
+      },
+      {
+        "id": "17999000000",
+        "name": "Other Travel"
+      },
+      {
+        "id": "17105000000",
+        "name": "Tours & Attractions"
+      },
+      {
+        "id": "17106000000",
+        "name": "Travel Agencies & Services"
+      }
+    ]
+  },
+  {
+    "id": "11000000000",
+    "name": "Vehicle & Transportation",
+    "sub_industry": [
+      {
+        "id": "11111000000",
+        "name": "Accessories for 2/3-Wheeled Vehicles"
+      },
+      {
+        "id": "11110000000",
+        "name": "Airplanes"
+      },
+      {
+        "id": "11101000000",
+        "name": "Auto Accessories"
+      },
+      {
+        "id": "11103000000",
+        "name": "Auto Parts"
+      },
+      {
+        "id": "11102000000",
+        "name": "Auto Services"
+      },
+      {
+        "id": "11100000000",
+        "name": "Automobiles"
+      },
+      {
+        "id": "11107000000",
+        "name": "Bicycles"
+      },
+      {
+        "id": "11112000000",
+        "name": "Car Dealerships"
+      },
+      {
+        "id": "11104000000",
+        "name": "Car Rentals"
+      },
+      {
+        "id": "11108000000",
+        "name": "Electric Scooters"
+      },
+      {
+        "id": "11106000000",
+        "name": "Motorcycles"
+      },
+      {
+        "id": "11999000000",
+        "name": "Other Vehicle & Transportation"
+      },
+      {
+        "id": "11105000000",
+        "name": "Used Cars"
+      },
+      {
+        "id": "11109000000",
+        "name": "Water Vehicles"
+      }
+    ]
+  }
+]
