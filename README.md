@@ -8,6 +8,11 @@ Here is a list of TikTok-Ads-Industry-Code, You can use these code map for build
 
 > Update Time: 2025/05/07
 
+## Language/多语言
+
+- [English Version](https://github.com/TikHub/TikTok-Ads-Industry-Code/blob/main/tiktok-ads-industry-code.json)
+- [中文版本](https://github.com/TikHub/TikTok-Ads-Industry-Code/blob/main/tiktok-ads-industry-code-zh.json)
+
 ```json
 [
   {
