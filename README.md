@@ -1,5 +1,12 @@
 # TikTok-Ads-Industry-Code
-TikTok-Ads-Industry-Code
+
+Here is a list of TikTok-Ads-Industry-Code, You can use these code map for building the request parameter.
+
+## API URL:
+
+[https://api.tikhub.io/#/TikTok-Ads-API](https://api.tikhub.io/#/TikTok-Ads-API)
+
+> Update Time: 2025/05/07
 
 ```json
 [
